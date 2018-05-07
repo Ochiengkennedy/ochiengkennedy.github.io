@@ -88,7 +88,7 @@
 
          <div class="three columns">
 
-            <img class="profile-pic"  src="images/profilepic.jpg" alt="" />
+            <img class="profile-pic"  src="images/Ken.jpg" alt="" />
 
          </div>
 
@@ -105,11 +105,11 @@
 
                   <h2>Contact Details</h2>
                   <p class="address">
-						   <span>Jonathan Doe</span><br>
-						   <span>1600 Amphitheatre Parkway<br>
-						         Mountain View, CA 94043 US
+						   <span>Kennedy Ochieng</span><br>
+						   <span>Nairobi.Kenya<br>
+						        
                      </span><br>
-						   <span>(123)456-7890</span><br>
+						   <span>(254)08166535</span><br>
                      <span>anyone@website.com</span>
 					   </p>
 
@@ -537,7 +537,8 @@
 
 		      <div class="description-box">
 			      <h4>Origami</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+			 
+Wordpress     <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
                <span class="categories"><i class="fa fa-tag"></i>Branding, Illustration</span>
 		      </div>
 
