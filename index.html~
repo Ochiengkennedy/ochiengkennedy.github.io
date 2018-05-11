@@ -87,7 +87,7 @@
 
          <div class="three columns">
 
-            <img class="profile-pic"  src="EasySelfie.jpg" alt="" />
+            <img class="profile-pic"  src="images/Done.jpg" alt="" />
 
          </div>
 
@@ -523,7 +523,7 @@ Wordpress
 		      <div class="description-box">
 			      <h4>Origami</h4>
 			 
-Wordpress     <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+Wordpress     <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudimoren, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
                <span class="categories"><i class="fa fa-tag"></i>Branding, Illustration</span>
 		      </div>
 
@@ -551,7 +551,7 @@ Wordpress     <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudi
 
 	      </div><!-- modal-01 End -->
 
-
+more
       </div> <!-- row End -->
 
    </section> <!-- Portfolio Section End-->
