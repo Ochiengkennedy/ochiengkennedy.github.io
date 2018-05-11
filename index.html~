@@ -87,7 +87,7 @@
 
          <div class="three columns">
 
-            <img class="profile-pic"  src="images/ken.jpg" alt="" />
+            <img class="profile-pic"  src="free selfie.jpg" alt="" />
 
          </div>
 
@@ -275,9 +275,9 @@ Wordpress
 
                      <a href="#modal-01" title="">
                         <img alt="" src="images/portfolio/bed.blend">
-                        <div class="overlay">
+                        <div class="3 D Design">
                            <div class="portfolio-item-meta">
-          					      <h5>Coffee</h5>
+          					      <h5>bed.blend</h5>
                               <p>Illustrration</p>
           					   </div>
                         </div>
