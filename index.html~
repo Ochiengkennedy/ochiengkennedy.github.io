@@ -17,7 +17,7 @@
 
 	<!-- CSS
     ================================================== -->
-   <link rel="stylesheet" href="css/default.css">
+   <link rel="stylesheet" href="css/default.css">moremore
 	<link rel="stylesheet" href="css/layout.css">
    <link rel="stylesheet" href="css/media-queries.css">
    <link rel="stylesheet" href="css/magnific-popup.css">
@@ -40,7 +40,7 @@
 
       <nav id="nav-wrap">
 
-         <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+         <a class="mobile-btn" href="#nav-wrap" title="Shomorew navigation">Show navigation</a>
 	      <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
 
          <ul id="nav" class="nav">
@@ -68,7 +68,7 @@
                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
                <li><a href="#"><i class="fa fa-skype"></i></a></li>
-            </ul>
+            </ul>more
          </div>
       </div>
 
@@ -106,7 +106,7 @@
                   <p class="address">
 						   <span>Kennedy Ochieng</span><br>
 						   <span>Nairobi.Kenya<br>
-						        
+						        more
                      </span><br>
 						   <span>(254)708166535</span><br>
                      <span>ochiengkennedy99@gmail.com</span>
@@ -168,7 +168,7 @@ Wordpress
 
                   <p>
                 	I have been interacting with the camera for long but after being taught on photoraphy, i have been able to put into practice what i had learnt. This practice has made me to be able to take proffessional photos using diffrent angles and shorts.
-                  </p>
+                  </p>more
 
                </div>
 
@@ -308,11 +308,11 @@ my designs
                   <div class="item-wrap">
 
                      <a href="#modal-03" title="">
-                        <img alt="" src="images/portfolio/judah.jpg">
-                        <div class="overlay">
+                        <img alt="" src="images/logo.svg">
+                        <div class="Designed with gimp">
                            <div class="portfolio-item-meta">
-          					      <h5>Judah</h5>
-                              <p>Webdesign</p>
+          					      <h5>logo</h5>
+                              <p>Logo design</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
@@ -325,11 +325,11 @@ my designs
                   <div class="item-wrap">
 
                      <a href="#modal-04" title="">
-                        <img alt="" src="images/portfolio/into-the-light.jpg">
-                        <div class="overlay">
+                        <img alt="" src="images/don.png">
+                        <div class="Designed with gimp">
                            <div class="portfolio-item-meta">
-          					      <h5>Into The Light</h5>
-                              <p>Photography</p>
+          					      <h5>Poster design</h5>
+                              <p>Poster</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
@@ -342,11 +342,11 @@ my designs
                   <div class="item-wrap">
 
                      <a href="#modal-05" title="">
-                        <img alt="" src="images/portfolio/farmerboy.jpg">
+                        <img alt="" src="images/site.png">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
           					      <h5>Farmer Boy</h5>
-                              <p>Branding</p>
+                              <p>Website Development</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
@@ -359,10 +359,10 @@ my designs
                   <div class="item-wrap">
 
                      <a href="#modal-06" title="">
-                        <img alt="" src="images/portfolio/girl.jpg">
+                        <img alt="" src="images/nor.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Girl</h5>
+          					      <h5>birds view</h5>
                               <p>Photography</p>
           					   </div>
                         </div>
@@ -484,7 +484,7 @@ my designs
 
          <div id="modal-05" class="popup-modal mfp-hide">
 
-		      <img class="scale-with-grid" src="images/portfolio/modals/m-farmerboy.jpg" alt="" />
+		      <img class="scale-with-grid" src="images/site.png" alt="" />
 
 		      <div class="description-box">
 			      <h4>Farmer Boy</h4>
